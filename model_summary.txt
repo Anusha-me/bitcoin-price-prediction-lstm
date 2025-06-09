@@ -1,6 +1,7 @@
 🧠 LSTM Model Summary – Bitcoin Price Forecasting
 
-This project uses a Long Short-Term Memory (LSTM) neural network to predict future Bitcoin prices based on historical data.
+> 📌 This repository focuses on Bitcoin price forecasting from a **stock market perspective** using LSTM, covering the period **2017–2024**.  
+> A separate version treating Bitcoin as a **currency** will be provided in a future repository.
 
 ---
 
