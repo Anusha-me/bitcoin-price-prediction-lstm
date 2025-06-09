@@ -28,8 +28,8 @@ This project forecasts Bitcoin prices using a Long Short-Term Memory (LSTM) neur
 ## 🧾 Files Included
 
 ```plaintext
-📄 The_Bitcoins_project.ipynb      # Main Jupyter notebook with code
-📘 Bitcon_explaination.docx        # Explanation of methodology and code
+📄 Bitcoins_forecasting_code.ipynb      # Main Jupyter notebook with code
+📘 Bitcon_explaination.pdf        # Explanation of methodology and code
 📦 requirements.txt                # Required Python libraries
 🧠 model_summary.txt               # Architecture and training process
 README.md                          # Project overview (this file)
