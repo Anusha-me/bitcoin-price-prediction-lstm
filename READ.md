@@ -37,6 +37,6 @@
 📘 Bitcon_explaination.pdf        # Explanation of methodology and code
 📦 requirements.txt                # Required Python libraries
 🧠 model_summary.txt               # Architecture and training process
-📊 Bitcon_Research_Dataset.xlsx    #Cleaned and interpolated dataset of Bitcoin stock prices from 2017 to 2024 (no weekends), used for LSTM training.
+📊 Bitcon_Research_Dataset.xlsx    #Cleaned dataset representing the currency perspective (2017–2024), used for LSTM training.Other versions (stock/time-split) are compatible with this code structure.
 
 README.md                          # Project overview (this file)
