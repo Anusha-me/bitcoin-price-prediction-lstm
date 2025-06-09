@@ -1,6 +1,11 @@
 # 📈 Bitcoin Price Forecasting with LSTM & Real-Time Data
 
-This project forecasts Bitcoin prices using a Long Short-Term Memory (LSTM) neural network. It combines historical Excel-based datasets with real-time data fetched via the CoinGecko API and applies rigorous cleaning, outlier removal, and sequence modeling to build accurate time-series predictions.
+> 📌 This project is part of a larger research study analyzing Bitcoin from **two perspectives**:
+> 
+> - 📈 **As a Stock** – influenced by trading volume, technical indicators, market sentiment  
+> - 💱 **As a Currency** – influenced by exchange rates, transaction volumes, and lag time
+> 
+> 🧠 This notebook trains an LSTM model on the **currency perspective dataset**, but the architecture is generalizable across both perspectives and timeframes (2017–2024).
 
 ---
 
