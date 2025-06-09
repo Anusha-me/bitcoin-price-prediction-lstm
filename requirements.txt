@@ -1,0 +1,8 @@
+tensorflow
+keras
+keras-tuner
+pandas
+numpy
+matplotlib
+openpyxl
+requests
