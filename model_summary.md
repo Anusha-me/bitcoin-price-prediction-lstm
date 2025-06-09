@@ -3,6 +3,14 @@
 > 📌 This repository focuses on Bitcoin price forecasting from a stock market perspective using LSTM, covering the period **2017–2024**.  
 > A separate version treating Bitcoin as a **currency** will be provided in a future repository.
 
+This project is part of a dual-perspective study on Bitcoin:
+
+- Perspective 1: Bitcoin as a Stock
+- Perspective 2: Bitcoin as a Currency (this code + dataset)
+
+While this notebook uses the currency view, the same code can be applied to other datasets prepared under the stock-based perspective or different time splits (e.g., 2017–2020, 2020–2021, etc.).
+
+
 ---
 
 📦 Model Architecture:
